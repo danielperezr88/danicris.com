@@ -31,4 +31,4 @@ before_deploy: "ls -al"
 #  token: ${FIREBASE_TOKEN}
   
 after_success:
-    - firebase deploy --token=${FIREBASE_TOKEN}
+    - firebase deploy --token=${FIREBASE_TOKEN} --project=${FIREBASE_PROJECT}
