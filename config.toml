@@ -1,8 +1,8 @@
 theme = "hugo-now-ui"
-baseurl = "/"
+baseurl = "https://danicris.com/"
 relativeurls = true
 languageCode = "en-us"
-title = "Now UI Kit"
+title = "No faltes!"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
