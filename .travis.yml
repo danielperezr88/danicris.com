@@ -1,0 +1,34 @@
+language: node_js
+node_js:
+  - "6.9"
+
+branches:
+  only:
+    - master
+
+# Install the apt prerequisites
+addons:
+  apt:
+    packages:
+      - python-pygments
+
+# Clean and don't fail
+install:
+  - rm -rf public || exit 0
+
+before_script:
+  - npm install -g firebase-tools
+  
+# Build the website
+script:
+  - chmod +x binaries/hugo
+  - binaries/hugo -t hugo-now-ui
+  
+before_deploy: "ls -al"
+
+#deploy:
+#  provider: firebase
+#  token: ${FIREBASE_TOKEN}
+  
+after_success:
+    - firebase deploy --token=${FIREBASE_TOKEN}
