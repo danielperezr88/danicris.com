@@ -1157,7 +1157,7 @@
 .navbar .navbar-nav > a.btn {
   border-width: 2px;
   font-weight: 400;
-  font-size: 0.8571em;
+  font-size: 1.15em;
   line-height: 1.35em;
   margin: 5px 1px;
   border: none;
@@ -1625,7 +1625,7 @@ fieldset[disabled]
   background-color: transparent; }
 
 .btn-lg {
-  font-size: 1em;
+  font-size: 1.15em;
   border-radius: 0.25rem;
   padding: 15px 48px; }
   .btn-lg.btn-simple {
@@ -1659,22 +1659,22 @@ fieldset[disabled]
   right: 8px; }
 
 .form-control::-moz-placeholder {
-  color: #DDDDDD;
+  color: #9A9A9A;
   opacity: 1;
   filter: alpha(opacity=100); }
 
 .form-control:-moz-placeholder {
-  color: #DDDDDD;
+  color: #9A9A9A;
   opacity: 1;
   filter: alpha(opacity=100); }
 
 .form-control::-webkit-input-placeholder {
-  color: #DDDDDD;
+  color: #9A9A9A;
   opacity: 1;
   filter: alpha(opacity=100); }
 
 .form-control:-ms-input-placeholder {
-  color: #DDDDDD;
+  color: #9A9A9A;
   opacity: 1;
   filter: alpha(opacity=100); }
 
@@ -1684,7 +1684,7 @@ fieldset[disabled]
   border-radius: 30px;
   color: #2c2c2c;
   line-height: normal;
-  font-size: 0.8571em;
+  font-size: 1.38em;
   -webkit-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
   -moz-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
   -o-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
@@ -1735,7 +1735,7 @@ fieldset[disabled]
     border-radius: 0.25rem 0.25rem 0 0;
     border-bottom-color: transparent; }
   .form-control + .input-group-addon {
-    background-color: #FFFFFF; }
+    background-color: transparent; }
 
 .has-success:after,
 .has-danger:after {
@@ -1813,7 +1813,7 @@ fieldset[disabled]
 .form-group.form-group-no-border .form-control + .input-group-addon,
 .input-group.form-group-no-border .form-control,
 .input-group.form-group-no-border .form-control + .input-group-addon {
-  background-color: rgba(222, 222, 222, 0.3);
+  background-color: transparent;
   border: medium none; }
   .form-group.form-group-no-border .form-control:focus, .form-group.form-group-no-border .form-control:active, .form-group.form-group-no-border .form-control:active,
   .form-group.form-group-no-border .form-control + .input-group-addon:focus,
@@ -1830,11 +1830,11 @@ fieldset[disabled]
 
 .form-group.form-group-no-border .form-control:focus + .input-group-addon,
 .input-group.form-group-no-border .form-control:focus + .input-group-addon {
-  background-color: rgba(222, 222, 222, 0.5); }
+  background-color: transparent; }
 
 .form-group.form-group-no-border .input-group-addon,
 .input-group.form-group-no-border .input-group-addon {
-  background-color: rgba(222, 222, 222, 0.3);
+  background-color: transparent;
   border: none; }
 
 .has-error .form-control-feedback, .has-error .control-label {
@@ -1844,10 +1844,10 @@ fieldset[disabled]
   color: #18ce0f; }
 
 .input-group-addon {
-  background-color: #FFFFFF;
+  background-color: transparent;
   border: 1px solid #E3E3E3;
   border-radius: 30px;
-  color: #555555;
+  color: #FFFFFF;
   padding: -0.5rem 0 -0.5rem -0.3rem;
   -webkit-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
   -moz-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
@@ -1870,7 +1870,8 @@ fieldset[disabled]
 
 .input-group-focus .input-group-addon {
   background-color: #FFFFFF;
-  border-color: #2c06c6; }
+  border-color: #2c06c6;
+  color: #555555; }
 
 .input-group-focus.form-group-no-border .input-group-addon {
   background-color: rgba(222, 222, 222, 0.5); }
@@ -1911,16 +1912,15 @@ fieldset[disabled]
 
 textarea.form-control {
   max-width: 100%;
-  padding: 10px 10px 0 0;
+  padding: 5px 15px;
   resize: none;
-  border: none;
   border-bottom: 1px solid #E3E3E3;
-  border-radius: 0;
+  border-radius: 30px;
   line-height: 2; }
   textarea.form-control:focus, textarea.form-control:active {
-    border-left: none;
-    border-top: none;
-    border-right: none; }
+    /*border-left: none;*/
+    /*border-top: none;*/
+    /*border-right: none;*/ }
 
 .has-success.form-group .form-control,
 .has-success.form-group.form-group-no-border .form-control,
@@ -2273,18 +2273,46 @@ textarea.form-control {
   border-color: #FFFFFF;
   color: #2c06c6; }
 
+@font-face {
+  font-family: "Better Together";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/better-together.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Belta Light";
+  font-style: normal;
+  font-weight: 200;
+  src: url("../fonts/belta-light.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Belta Bold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/belta-bold.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "Belta Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/belta-regular.ttf") format("truetype"); }
+
 button,
 input,
 optgroup,
 select,
 textarea {
-  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif; }
+  font-family: "Belta Regular", "Montserrat", "Helvetica Neue", Arial, sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: "Better Together", Helvetica;
   font-weight: 400; }
 
 small {
   font-size: 60%; }
+
+p {
+  font-size: 1.15em; }
 
 a {
   color: #2c06c6; }
@@ -2319,6 +2347,9 @@ h4, .h4 {
   .h4.title + .category {
     margin-top: -10px; }
 
+h4.title {
+  margin-left: -5px; }
+
 h5, .h5 {
   font-size: 1.57em;
   line-height: 1.4em;
@@ -2330,7 +2361,10 @@ h6, .h6 {
   text-transform: uppercase; }
 
 p {
-  line-height: 1.61em; }
+  font-family: Arial, sans-serif;
+  line-height: 1.61em;
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
   .description p, p.description {
     font-size: 1.14em; }
 
@@ -2402,7 +2436,7 @@ p {
 body {
   color: #2c2c2c;
   font-size: 14px;
-  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Belta Regular", "Montserrat", "Helvetica Neue", Arial, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased; }
 
@@ -2608,14 +2642,15 @@ body {
     width: 49px;
     top: -4px; }
   .navbar .navbar-nav .nav-link.btn {
-    padding: 11px 22px; }
+    padding: 11px 22px;
+    font-size: 1.15em; }
     .navbar .navbar-nav .nav-link.btn.btn-lg {
       padding: 15px 48px; }
     .navbar .navbar-nav .nav-link.btn.btn-sm {
       padding: 5px 15px; }
   .navbar .navbar-nav .nav-link:not(.btn) {
     text-transform: uppercase;
-    font-size: 0.7142em;
+    font-size: 2em;
     padding: 0.5rem 0.7rem;
     line-height: 1.625rem; }
     .navbar .navbar-nav .nav-link:not(.btn) i.fa + p,
@@ -2630,7 +2665,8 @@ body {
       width: 21px; }
     .navbar .navbar-nav .nav-link:not(.btn) i.now-ui-icons {
       top: 4px;
-      font-size: 16px; }
+      font-size: 1em;
+      margin-right: 5px; }
     .navbar .navbar-nav .nav-link:not(.btn).profile-photo .profile-photo-small {
       width: 27px;
       height: 27px; }
@@ -2652,7 +2688,7 @@ body {
     border: 1px solid transparent; }
   .navbar .navbar-brand {
     text-transform: uppercase;
-    font-size: 0.8571em;
+    font-size: 2em;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     line-height: 1.625rem; }
@@ -3661,7 +3697,7 @@ Created using IcoMoon - icomoon.io
     padding-right: 0; }
 
 .footer {
-  padding: 24px 0; }
+  padding: 12px; }
   .footer.footer-default {
     background-color: #f2f2f2; }
   .footer nav {
@@ -3917,12 +3953,12 @@ Created using IcoMoon - icomoon.io
     color: #FFFFFF; }
   .login-page .card-login.card-plain .form-group.form-group-no-border .input-group-addon,
   .login-page .card-login.card-plain .input-group.form-group-no-border .input-group-addon {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: transparent;
     border: none;
     color: #FFFFFF; }
   .login-page .card-login.card-plain .form-group.form-group-no-border.input-group-focus .input-group-addon,
   .login-page .card-login.card-plain .input-group.form-group-no-border.input-group-focus .input-group-addon {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: transparent;
     color: #FFFFFF; }
   .login-page .card-login.card-plain .input-group-addon,
   .login-page .card-login.card-plain .form-group.form-group-no-border .input-group-addon,
@@ -3935,7 +3971,7 @@ Created using IcoMoon - icomoon.io
   text-decoration: none; }
 
 .section {
-  padding: 70px 0;
+  padding: 35px 0;
   position: relative;
   background: #FFFFFF; }
   .section .row + .category {
@@ -3951,7 +3987,7 @@ Created using IcoMoon - icomoon.io
   padding-top: 20vh; }
 
 .page-header {
-  height: 100vh;
+  height: 100%;
   max-height: 1050px;
   padding: 0;
   color: #FFFFFF;
@@ -3967,13 +4003,15 @@ Created using IcoMoon - icomoon.io
     z-index: -1; }
   .page-header footer {
     position: absolute;
-    bottom: 0;
+    /*bottom: 0;*/
     width: 100%; }
   .page-header .container {
+    min-height: 800px;
     height: 100%;
     z-index: 1;
     text-align: center;
-    position: relative; }
+    position: relative;
+    overflow: auto; }
     .page-header .container > .content-center {
       position: absolute;
       top: 50%;
@@ -4219,7 +4257,7 @@ Created using IcoMoon - icomoon.io
   display: none; }
 
 .section-story-overview {
-  padding: 50px 0; }
+  padding: 35px 0; }
   .section-story-overview .image-container {
     height: 335px;
     position: relative;
@@ -4515,12 +4553,12 @@ Created using IcoMoon - icomoon.io
     color: #FFFFFF; }
   [data-background-color] .form-group.form-group-no-border .input-group-addon,
   [data-background-color] .input-group.form-group-no-border .input-group-addon {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: transparent;
     border: none;
     color: #FFFFFF; }
   [data-background-color] .form-group.form-group-no-border.input-group-focus .input-group-addon,
   [data-background-color] .input-group.form-group-no-border.input-group-focus .input-group-addon {
-    background-color: rgba(255, 255, 255, 0.2);
+    background-color: transparent;
     color: #FFFFFF; }
   [data-background-color] .input-group-addon,
   [data-background-color] .form-group.form-group-no-border .input-group-addon,

@@ -2,7 +2,7 @@
 .navbar .navbar-nav > a.btn{
     border-width: $border-thick;
     font-weight: $font-weight-normal;
-    font-size: $font-size-small;
+    font-size: $font-paragraph;
     line-height: $line-height;
     margin: 5px 1px;
     border: none;
@@ -129,7 +129,7 @@
 }
 
 .btn-lg{
-   @include btn-size($padding-large-vertical, $padding-large-horizontal, $font-size-large, $border-radius-large);
+   @include btn-size($padding-large-vertical, $padding-large-horizontal, $font-paragraph, $border-radius-large);
 }
 .btn-sm{
     @include btn-size($padding-small-vertical, $padding-small-horizontal, $font-size-base, $border-radius-small);

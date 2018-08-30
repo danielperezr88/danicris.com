@@ -142,14 +142,14 @@
     }
 
     .input-group-addon{
-        background-color: $color4;
+        background-color: transparent;//$color4;
         border-color: $color1;
         color: $color2;
     }
 
     .input-group-focus{
         .input-group-addon{
-            background-color: $color4;
+            background-color: transparent;//$color4;
             border-color: $color3;
             color: $color3;
         }
@@ -190,14 +190,14 @@
         }
 
         .input-group-addon{
-            background-color: $color5;
+            background-color: transparent;//$color5;
             border: none;
             color: $color2;
         }
 
         &.input-group-focus{
             .input-group-addon{
-                background-color: $color6;
+                background-color: transparent;//$color6;
                 color: $color3;
             }
         }

@@ -1,4 +1,4 @@
-@include form-control-placeholder($medium-gray, 1);
+@include form-control-placeholder($dark-gray, 1);
 
 .form-control {
     background-color: $transparent-bg;
@@ -6,7 +6,7 @@
     border-radius: $btn-round-radius;
     color: $black-color;
     line-height: normal;
-    font-size: $font-size-small;
+    font-size: $font-paragraph * 1.2;
     @include transition-input-focus-color();
     @include box-shadow(none);
 
@@ -74,7 +74,7 @@
     }
 
     & + .input-group-addon{
-        background-color: $white-bg;
+        background-color: transparent;//$white-bg;
     }
 }
 
@@ -113,7 +113,7 @@
 .input-group.form-group-no-border{
     .form-control,
     .form-control + .input-group-addon{
-        background-color: $opacity-gray-3;
+        background-color: transparent;//$opacity-gray-3;
         border: medium none;
         &:focus,
         &:active,
@@ -126,13 +126,13 @@
     .form-control{
         &:focus{
             & + .input-group-addon{
-                background-color: $opacity-gray-5;
+                background-color: transparent;//$opacity-gray-5;
             }
         }
     }
 
     .input-group-addon{
-        background-color: $opacity-gray-3;
+        background-color: transparent;//$opacity-gray-3;
         border: none;
     }
 }
@@ -149,10 +149,10 @@
 }
 
 .input-group-addon {
-    background-color: $white-bg;
+    background-color: transparent;//$white-bg;
     border: 1px solid $light-gray;
     border-radius: $btn-round-radius;
-    color: $dark-background;
+    color: $white-bg;//$dark-background;
     padding: $padding-base-vertical - 1 0 $padding-base-vertical - 1 $padding-base-horizontal - 1;
 
     @include transition-input-focus-color();
@@ -183,6 +183,7 @@
     .input-group-addon{
         background-color: $white-bg;
         border-color: $primary-color;
+		color: $dark-background;
     }
 
     &.form-group-no-border{
@@ -232,18 +233,17 @@
 }
 textarea.form-control{
     max-width: 100%;
-    padding: 10px 10px 0 0;
+    padding: 5px 15px;
     resize: none;
-    border: none;
     border-bottom: 1px solid $light-gray;
-    border-radius: 0;
+    border-radius: 30px;
     line-height: 2;
 
     &:focus,
     &:active{
-        border-left: none;
-        border-top: none;
-        border-right: none;
+        /*border-left: none;*/
+        /*border-top: none;*/
+        /*border-right: none;*/
     }
 }
 

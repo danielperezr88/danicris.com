@@ -2,7 +2,9 @@
 //
 //## For each of Bootstrap's buttons, define text, background and border color.
 
-$sans-serif-family:          'Montserrat', 'Helvetica Neue',  Arial, sans-serif;
+$sans-serif-family:          'Belta Regular', 'Montserrat', 'Helvetica Neue', Arial, sans-serif;
+$readable-text-font-family:  Arial, sans-serif;
+$titles-font-family:         'Better Together', Helvetica;
 
 $none:                       0   !default;
 $border-thin:                1px !default;
@@ -185,6 +187,7 @@ $btn-icon-font-size-regular:    0.9375rem     !default;
 $btn-icon-font-size-small:      0.6875rem      !default;
 $btn-icon-size-small:           1.875rem     !default;
 $btn-icon-font-size-lg:         1.325rem     !default;
+//$btn-icon-font-size-lg:         1.875rem     !default;
 $btn-icon-size-lg:              3.6rem         !default;
 
 $font-size-h1:                 3.5em        !default; // ~ 49px
@@ -194,8 +197,8 @@ $font-size-h4:                 1.714em      !default; // ~ 24px
 $font-size-h5:                 1.57em       !default; // ~ 22px
 $font-size-h6:                 1em          !default; // ~ 14px
 
-$font-paragraph:               1em          !default;
-$font-size-navbar:             1em          !default;
+$font-paragraph:               1.15em        !default;
+$font-size-navbar:             2em          !default;
 $font-size-mini:               0.7142em     !default;
 $font-size-small:              0.8571em     !default;
 $font-size-base:               14px         !default;

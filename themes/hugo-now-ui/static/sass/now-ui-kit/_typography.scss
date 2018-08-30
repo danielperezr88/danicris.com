@@ -1,3 +1,8 @@
+@include font-face("Better Together", "../fonts/better-together", 500, normal, "ttf");
+@include font-face("Belta Light", "../fonts/belta-light", 200, normal, "ttf");
+@include font-face("Belta Bold", "../fonts/belta-bold", 600, normal, "ttf");
+@include font-face("Belta Regular", "../fonts/belta-regular", 400, normal, "ttf");
+
 button,
 input,
 optgroup,
@@ -6,11 +11,16 @@ textarea{
     font-family: $sans-serif-family;
 }
 h1,h2,h3,h4,h5,h6{
+	font-family: $titles-font-family;
     font-weight: $font-weight-normal;
 }
 
 small{
     font-size: 60%;
+}
+
+p{
+	font-size: $font-paragraph
 }
 
 a{
@@ -51,6 +61,9 @@ h4, .h4{
         margin-top: -10px;
     }
 }
+h4.title {
+	margin-left: -5px;
+}
 h5, .h5 {
     font-size: $font-size-h5;
     line-height: 1.4em;
@@ -62,7 +75,10 @@ h6, .h6{
     text-transform: uppercase;
 }
 p{
+	font-family: $readable-text-font-family;
     line-height: 1.61em;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
 
     .description &,
     &.description{
