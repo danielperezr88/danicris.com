@@ -2,7 +2,7 @@ theme = "hugo-now-ui"
 baseurl = "https://danicris.com/"
 relativeurls = true
 languageCode = "en-us"
-title = "No faltes!"
+title = "Dani y Cris 2019"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
@@ -43,11 +43,11 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 #    url = "/template"
 #    weight = 1
 #    parent = "dropdown"
-[[menu.main]]
-    name = "Artículos"
-    pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
-    url = "/post"
-    weight = 2
+#[[menu.main]]
+#    name = "Artículos"
+#    pre = "<i class='now-ui-icons ui-1_calendar-60'></i>"
+#    url = "/post"
+#    weight = 2
 #    parent = "dropdown"
 #[[menu.main]]
 #    name = "Tags"

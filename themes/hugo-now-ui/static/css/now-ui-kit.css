@@ -2330,11 +2330,13 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 2.5em;
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  line-height: 1.4em; }
 
 h3, .h3 {
   font-size: 2em;
   margin-bottom: 30px;
+  margin-top: 30px;
   line-height: 1.4em; }
 
 h4, .h4 {
