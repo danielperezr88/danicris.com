@@ -1,7 +1,6 @@
 +++
 background = "/uploads/ocejón.jpg"
 description = "Algunos detalles sobre el lugar donde pasaremos un estupendo fin de semana"
-draft = true
 title = "Localización"
 type = "page"
 
