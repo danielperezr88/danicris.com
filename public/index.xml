@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dani &amp; Cris on Dani y Cris 2019</title>
+    <link>https://danicris.com/</link>
+    <description>Recent content in Dani &amp; Cris on Dani y Cris 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://danicris.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>example post</title>
+      <link>https://danicris.com/2017/11/29/example-post/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://danicris.com/2017/11/29/example-post/</guid>
+      <description>Awesome blog post</description>
+    </item>
+    
+    <item>
+      <title>A Plain Markdown Post</title>
+      <link>https://danicris.com/2016/12/30/a-plain-markdown-post/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>https://danicris.com/2016/12/30/a-plain-markdown-post/</guid>
+      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
+ You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://danicris.com/2015/01/01/lorem-ipsum/</link>
+      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      
+      <guid>https://danicris.com/2015/01/01/lorem-ipsum/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://danicris.com/login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danicris.com/login/</guid>
+      <description>----------Get StartedCreate AccountNeed Help?----</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://danicris.com/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danicris.com/profile/</guid>
+      <description>FollowAbout meAn artist of considerable range, Ryan — the name taken by Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and records all of his own music, giving it a warm, intimate feel with a solid groove structure. An artist of considerable range.My Portfolio </description>
+    </item>
+    
+    <item>
+      <title>Dani &amp; Cris</title>
+      <link>https://danicris.com/landing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danicris.com/landing/</guid>
+      <description>¡Bienvenidos a la página de nuestra boda!Aquí encontraréis toda la información necesaria sobre el evento como horarios, organización y demás detalles importantes.
+&#34;¡Un fin de semana de celebración en un entorno increíble!&#34;-El novio--Estamos en construcción pero...Puedes registrarte y te mantendremos al día con todas las novedades!
+Sólo tienes que dejarnos tu nombre y correo electrónico debajo, y nosotros nos ocuparemos de avisarte cuando incorporemos más información.</description>
+    </item>
+    
+    <item>
+      <title>Horarios</title>
+      <link>https://danicris.com/horarios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danicris.com/horarios/</guid>
+      <description>El fin de semana de fiesta empieza el viernes 22 con la llegada a los alojamientos rurales que hemos elegido para vosotros y, a continuación, una cena informal de bienvenida a las 20:30. Y cuando decimos informal queremos decir que no hay por qué ir de gala, que alguno ya ha preguntado… .
+Los horarios para el sábado 23, día B, son:
+ 16:00 – Inicio del servicio de recogida con minibús desde Majaelrayo a Aldea Tejera Negra 17:30 – Ceremonia Civil en Aldea Tejera Negra 18:30 – Cóctel de Bienvenida 19:30 – Cena Buffet 22:00 – ¡Comienza el bailoteo y la barra libre!</description>
+    </item>
+    
+    <item>
+      <title>Lugar</title>
+      <link>https://danicris.com/lugar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danicris.com/lugar/</guid>
+      <description>Entorno Pasaremos el fin de semana en el entorno de la Arquitectura Negra de la sierra de Guadalajara, más concretamente, en el parque natural de la Sierra Norte. Se trata de una zona mágica salpicada de aldeas de pizarra a los pies del Pico Ocejón, dominado por la imponente presencia de éste. Además, en los alrededores podemos encontrar multitud de zonas verdes y rutas de senderismo. Como principales puntos de interés, destacamos&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
