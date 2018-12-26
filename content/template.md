@@ -1,6 +1,6 @@
 ---
 background: "/uploads/ocejón.jpg"
-title: Localización
+title: Template
 description: Algunos detalles sobre el lugar donde pasaremos un estupendo fin de semana
 type: page
 
