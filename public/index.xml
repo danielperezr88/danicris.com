@@ -1,92 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>No faltes!</title>
-    <link>https://danicris.com/</link>
-    <description>Recent content on No faltes!</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://danicris.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>example post</title>
-      <link>https://danicris.com/2017/11/29/example-post/</link>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://danicris.com/2017/11/29/example-post/</guid>
-      <description>Awesome blog post</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>https://danicris.com/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>https://danicris.com/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>https://danicris.com/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>https://danicris.com/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://danicris.com/login/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danicris.com/login/</guid>
-      <description>Get StartedCreate AccountNeed Help?</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://danicris.com/profile/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danicris.com/profile/</guid>
-      <description>FollowAbout meAn artist of considerable range, Ryan — the name taken by Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and records all of his own music, giving it a warm, intimate feel with a solid groove structure. An artist of considerable range.My Portfolio </description>
-    </item>
-    
-    <item>
-      <title>Components</title>
-      <link>https://danicris.com/components/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danicris.com/components/</guid>
-      <description>Now UI Kit.A beautiful Bootstrap 4 UI kit. Yours free.Designed by. Coded by. --Basic ElementsButtonsPick your style
-DefaultRound With IconSimplePick your size
-SmallRegularLargePick your color
-DefaultPrimaryInfoSuccessWarningDangerNeutralLinksDefaultPrimaryInfoSuccessWarningDangerInputsForm Controls</description>
-    </item>
-    
-    <item>
-      <title>Dani &amp; Cris</title>
-      <link>https://danicris.com/landing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danicris.com/landing/</guid>
-      <description>¡Bienvenidos a la página de nuestra boda!Aquí encontraréis toda la información necesaria sobre el evento como horarios, organización y demás detalles importantes.&#34;¡Un fin de semana de celebración en un entorno increíble!&#34;-El novioThe Arctic Ocean freezes every winter and much of the sea-ice then thaws every summer, and that process will continue whatever happens with climate change. Even if the Arctic continues to be one of the fastest-warming regions of the world, it will always be plunged into bitterly cold polar dark every winter.</description>
-    </item>
-    
-    <item>
-      <title>Localización</title>
-      <link>https://danicris.com/template/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danicris.com/template/</guid>
-      <description>Entorno Pasaremos el fin de semana en el entorno de la Arquitectura Negra de la sierra de Guadalajara, más concretamente, en el valle a los pies del Pico Ocejón, dominado por la imponente presencia de éste. Se trata de una zona salpicada de aldeas de pizarra, con multitud de zonas verdes y rutas de senderismo. Como principales puntos de interés, podemos destacar&amp;hellip;
- Pico Ocejón Hayedo de la Tejera Negra Ciudad Encantada de Tamajón  Boda y Eventos Tanto la boda como todos los demás eventos preparados para el fin de semana se celebrarán en el complejo Aldea Tejera Negra, en el pueblo de Campillo de Ranas.</description>
-    </item>
-    
-  </channel>
-</rss>
