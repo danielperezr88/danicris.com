@@ -5,7 +5,7 @@ description: Algunos detalles sobre el lugar donde pasaremos un estupendo fin de
 type: page
 
 ---
-## Entorno
+# Entorno
 
 Pasaremos el fin de semana en el entorno de la Arquitectura Negra de la sierra de Guadalajara, más concretamente, en el parque natural de la Sierra Norte. Se trata de una zona mágica salpicada de aldeas de pizarra a los pies del [Pico Ocejón](https://es.wikipedia.org/wiki/Pico_Ocej%C3%B3n), dominado por la imponente presencia de éste. Además, en los alrededores podemos encontrar multitud de zonas verdes y rutas de senderismo. Como principales puntos de interés, destacamos...
 
@@ -15,13 +15,13 @@ Pasaremos el fin de semana en el entorno de la Arquitectura Negra de la sierra d
 
 ![](/uploads/hayedo-de-tejera-negra.jpg)
 
-## Localización
+# Localización
 
 Tanto la boda como todos los demás eventos preparados para el fin de semana se celebrarán en el complejo **Aldea Tejera Negra**, en el pueblo de [Campillo de Ranas](https://es.wikipedia.org/wiki/Campillo_de_Ranas).
 
 ![](/uploads/ATN1.jpg)
 
-## Alojamientos
+# Alojamientos
 
 Para el alojamiento se habilitará una serie de casas rurales, repartidas entre los pueblos de [Campillo de Ranas](https://es.wikipedia.org/wiki/Campillo_de_Ranas) y [Majaelrayo](https://es.wikipedia.org/wiki/Majaelrayo) (al Norte, a 3,6 km. de distancia):
 
@@ -29,8 +29,7 @@ Para el alojamiento se habilitará una serie de casas rurales, repartidas entre 
 
 Se trata de 4 confortables alojamientos adosados, situados en el propio complejo de **Aldea Tejera Negra**, donde se celebrará la boda y demás eventos del fin de semana.
 
-Cada casillo cuenta con dos habitaciones dobles, dos cuartos de baño y un pequeño salón-comedor con chimenea y cocina americana.
-El estilo rústico del mobiliario marca la decoración de las estancias interiores, de dos plantas. En la planta superior, con techos de madera, se distribuye una habitación doble con baño, en la planta inferior hay un salón con ambiente muy apropiados para la lectura o para relajarse después de un paseo, una habitación doble y un baño. Están equipados con menaje de cocina, ropa de cama y baño.
+Cada casillo cuenta con dos habitaciones dobles, dos cuartos de baño y un pequeño salón-comedor con chimenea y cocina americana. También disponen de sofá-cama y camas supletorias. En total, el conjunto de los 4 casillos permite alojar a un máximo de 31 personas.
 
 ![](/uploads/Casillos.jpg)
 
@@ -38,11 +37,7 @@ El estilo rústico del mobiliario marca la decoración de las estancias interior
 
 ### Apartamentos Rurales "La Plaza"
 
-Una preciosa casa de tejera negra en Majaelrayo, dividida en apartamentos, con un espacio total para 20 personas. Dispone de cocina con microondas, nevera, tostadora y horno, además de chimenea en el comedor y TV + baño en las habitaciones. Está situada en la plaza central del pueblo, a escasos metros del Asador Tejera Negra.
-
-Los Apartamentos La Plaza están , en la localidad de Majaelrayo, situada en la ruta de la arquitectura negra 
-
-Este apartamento dispone de una sala de estar con chimenea, sofá y TV de pantalla plana, una cocina con horno y microondas y un baño con ducha
+Una preciosa casa de tejera negra en Majaelrayo dividida en apartamentos, con un espacio total para 20 personas, incluyendo camas supletorias. Dispone de cocina con microondas, nevera, tostadora y horno, además de chimenea en el comedor y TV + baño en las habitaciones. Está situada en la plaza central del pueblo, a escasos metros del Asador Tejera Negra.
 
 ![](/uploads/alojamiento-tejera-atardecer.jpg)
 
@@ -50,7 +45,7 @@ Este apartamento dispone de una sala de estar con chimenea, sofá y TV de pantal
 
 ### La Casona de Majaelrayo
 
-Conjunto rural con espacio para un total de 29 personas. Dispone de cocina con microondas, nevera y lavavajillas, chimenea en el comedor, cuarto de la colada con lavadora y secadora, barra de bar, terraza amueblada con barbacoa y TV + baño en las habitaciones.
+Conjunto rural con espacio para un total de 29 personas. Dispone de cocina con microondas, nevera y lavavajillas, chimenea en el comedor, cuarto de la colada con plancha, lavadora y secadora, barra de bar, terraza amueblada con barbacoa y TV + baño en las habitaciones.
 
 ![](/uploads/Salon_Casona.jpg)
 
