@@ -1,6 +1,6 @@
 +++
 background = "/uploads/tj0332.jpg"
-description = "Algunos detalles sobre el lugar donde pasaremos un estupendo fin de semana"
+description = ""
 title = "Horarios"
 type = "page"
 
