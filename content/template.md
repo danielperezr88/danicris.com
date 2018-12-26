@@ -3,6 +3,7 @@ background: "/uploads/ocejón.jpg"
 title: Template
 description: Algunos detalles sobre el lugar donde pasaremos un estupendo fin de semana
 type: page
+draft: true
 
 ---
 # Entorno
