@@ -4013,7 +4013,7 @@ Created using IcoMoon - icomoon.io
     z-index: 1;
     text-align: center;
     position: relative;
-    overflow: auto; }
+    overflow: hidden; }
     .page-header .container > .content-center {
       position: absolute;
       top: 50%;
@@ -5755,4 +5755,4 @@ Created using IcoMoon - icomoon.io
     top: 50%;
     transform: translateY(-50%); } }
 
-/*# sourceMappingURL=now-ui-kit.css.map */
+/*# sourceMappingURL=../sass/now-ui-kit.css.map */

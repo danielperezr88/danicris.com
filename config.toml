@@ -37,10 +37,15 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "/horarios"
     weight = 2
 [[menu.main]]
+    name = "Formulario de Asistencia"
+    pre = "<i class='now-ui-icons education_paper'></i>"
+    url = "/asistencia"
+    weight = 3
+[[menu.main]]
     name = "Escríbenos"
     pre = "<i class='now-ui-icons clothes_tie-bow'></i>"
     url = "/login"
-    weight = 3
+    weight = 4
 #[[menu.main]]
 #    name = "Dropdown"
 #    pre = "<i class='now-ui-icons ui-1_settings-gear-63'></i>"

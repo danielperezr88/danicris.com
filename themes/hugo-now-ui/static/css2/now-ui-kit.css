@@ -759,7 +759,7 @@
   -moz-border-radius: 4px;
   border-radius: 50%;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 26px;
   border: none;
   position: relative;
   cursor: pointer; }
@@ -1015,7 +1015,7 @@
   line-height: 41px;
   float: left;
   margin: 1%;
-  font-size: 20px;
+  font-size: 26px;
   cursor: pointer;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -1157,7 +1157,7 @@
 .navbar .navbar-nav > a.btn {
   border-width: 2px;
   font-weight: 400;
-  font-size: 0.805em;
+  font-size: 0.619em;
   line-height: 1.35em;
   margin: 5px 1px;
   border: none;
@@ -1625,14 +1625,14 @@ fieldset[disabled]
   background-color: transparent; }
 
 .btn-lg {
-  font-size: 0.805em;
+  font-size: 0.619em;
   border-radius: 0.25rem;
   padding: 15px 48px; }
   .btn-lg.btn-simple {
     padding: 14px 47px; }
 
 .btn-sm {
-  font-size: 20px;
+  font-size: 26px;
   border-radius: 0.1875rem;
   padding: 5px 15px; }
   .btn-sm.btn-simple {
@@ -1684,7 +1684,7 @@ fieldset[disabled]
   border-radius: 30px;
   color: #2c2c2c;
   line-height: normal;
-  font-size: 0.966em;
+  font-size: 0.7428em;
   -webkit-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
   -moz-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
   -o-transition: color 0.3s ease-in-out, border-color 0.3s ease-in-out, background-color 0.3s ease-in-out;
@@ -1725,7 +1725,7 @@ fieldset[disabled]
       background-color: #FFFFFF; }
   .form-control + .form-control-feedback {
     border-radius: 0.25rem;
-    font-size: 20px;
+    font-size: 26px;
     margin-top: 0;
     position: absolute;
     left: 18px;
@@ -2211,7 +2211,7 @@ textarea.form-control {
   line-height: 30px;
   color: #2c2c2c;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 26px;
   text-transform: uppercase;
   background: transparent; }
   .pagination .page-item .page-link:hover, .pagination .page-item .page-link:focus {
@@ -2312,7 +2312,7 @@ small {
   font-size: 60%; }
 
 p {
-  font-size: 0.805em; }
+  font-size: 0.619em; }
 
 a {
   color: #2c06c6; }
@@ -2413,7 +2413,7 @@ p {
   border-left: none;
   border: 1px solid #888;
   padding: 20px;
-  font-size: 1.1em;
+  font-size: 0.664em;
   line-height: 1.8; }
   .blockquote small {
     color: #888;
@@ -2437,7 +2437,7 @@ p {
 
 body {
   color: #2c2c2c;
-  font-size: 20px;
+  font-size: 26px;
   font-family: "Belta Regular", "Montserrat", "Helvetica Neue", Arial, sans-serif;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased; }
@@ -2585,7 +2585,7 @@ body {
     background-color: transparent;
     border: 1px solid transparent;
     border-radius: 30px;
-    font-size: 20px;
+    font-size: 26px;
     padding: 11px 23px;
     line-height: 1.5; }
     .nav-tabs > .nav-item > .nav-link:hover {
@@ -2645,14 +2645,14 @@ body {
     top: -4px; }
   .navbar .navbar-nav .nav-link.btn {
     padding: 11px 22px;
-    font-size: 0.805em; }
+    font-size: 0.619em; }
     .navbar .navbar-nav .nav-link.btn.btn-lg {
       padding: 15px 48px; }
     .navbar .navbar-nav .nav-link.btn.btn-sm {
       padding: 5px 15px; }
   .navbar .navbar-nav .nav-link:not(.btn) {
     text-transform: uppercase;
-    font-size: 2em;
+    font-size: 1.154em;
     padding: 0.5rem 0.7rem;
     line-height: 1.625rem; }
     .navbar .navbar-nav .nav-link:not(.btn) i.fa + p,
@@ -2690,7 +2690,7 @@ body {
     border: 1px solid transparent; }
   .navbar .navbar-brand {
     text-transform: uppercase;
-    font-size: 2em;
+    font-size: 1.154em;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     line-height: 1.625rem; }
@@ -2757,7 +2757,7 @@ body {
   -o-transition: all 150ms linear;
   -ms-transition: all 150ms linear;
   transition: all 150ms linear;
-  font-size: 20px; }
+  font-size: 26px; }
   .dropdown-menu.dropdown-menu-right:before {
     left: auto;
     right: 10px; }
@@ -2932,7 +2932,7 @@ img {
   box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3); }
 
 .popover {
-  font-size: 20px;
+  font-size: 26px;
   box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.2);
   border: none;
   line-height: 1.7;
@@ -2947,7 +2947,7 @@ img {
     border-bottom-color: transparent; }
   .popover .popover-header {
     color: rgba(182, 182, 182, 0.6);
-    font-size: 20px;
+    font-size: 26px;
     text-transform: capitalize;
     font-weight: 600;
     margin: 0;
@@ -3051,7 +3051,7 @@ img {
   padding: 0.5rem 0.7rem;
   min-width: 130px;
   background-color: #FFFFFF;
-  font-size: 20px;
+  font-size: 26px;
   color: inherit;
   box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2); }
 
@@ -4013,7 +4013,7 @@ Created using IcoMoon - icomoon.io
     z-index: 1;
     text-align: center;
     position: relative;
-    overflow: auto; }
+    overflow: hidden; }
     .page-header .container > .content-center {
       position: absolute;
       top: 50%;
@@ -5755,4 +5755,4 @@ Created using IcoMoon - icomoon.io
     top: 50%;
     transform: translateY(-50%); } }
 
-/*# sourceMappingURL=now-ui-kit.css.map */
+/*# sourceMappingURL=../sass/now-ui-kit.css.map */
