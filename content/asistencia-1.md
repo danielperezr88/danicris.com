@@ -1,9 +1,13 @@
 +++
-background = "/uploads/Hayedo_de_Tejera_Negra_02-680x281.jpg"
+background = "/uploads/hayedo-de-tejera-negra.jpg"
 description = ""
 draft = true
-title = "Asistencia"
+title = "Cuenta"
 type = "page"
 
 +++
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeuy_I-MKui_iY5c2oTIIYGISflQX8c9zCpjQAcgn8wAUhsxQ/viewform?embedded=true" width="100%" height="1375" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<div class="container">
+  <h3 class="title" style="font-weight:normal;">¿Quieres hacernos un regalo?</h3>
+  <p style="font-size:1em;"><strong>IBAN ES61 0182 0055 8502 0170 0857</strong></p>
+				<p>Nos encantaría que nos dejases un <a href="/login">mensaje</a>. ¡GRACIAS!</p>
+</div>
