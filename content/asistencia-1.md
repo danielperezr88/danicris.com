@@ -1,7 +1,6 @@
 +++
 background = "/uploads/hayedo-de-tejera-negra.jpg"
 description = ""
-draft = true
 title = "Cuenta"
 type = "page"
 
